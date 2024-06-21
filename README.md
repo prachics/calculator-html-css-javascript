@@ -20,4 +20,4 @@ A responsive web calculator featuring both dark and light mode themes. This proj
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/ps8888/Breadcrumbscalculator-html-css-javascript.git
+   git clone https://github.com/ps8888/calculator-html-css-javascript/tree/main
